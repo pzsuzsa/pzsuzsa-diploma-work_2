@@ -1,1 +1,2 @@
 This is my diploma work.
+It would be good to run autotest on lottery terminals
