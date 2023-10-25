@@ -1,3 +1,4 @@
 This is my diploma work.
-It would be good to run autotest on lottery terminals
-Therefore I'm taking part in this course.
+It would be good to run autotest on lottery terminals.
+
+Adding a new line.
